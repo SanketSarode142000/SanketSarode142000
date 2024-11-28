@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketsarode142000" alt="sanketsarode142000" /></a> </p>
 
-- 🌱 I’m currently learning **SDET**
+- 🌱 I’m currently learning **Selenium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SanketSarode142000?tab=repositories](https://github.com/SanketSarode142000?tab=repositories)
 
