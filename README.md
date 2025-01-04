@@ -22,11 +22,11 @@
 
 🔧 Skills:
 
-Languages: Java, JavaScript, Python (basic)
+Languages: Java, JavaScript
 Automation Tools: Selenium WebDriver, Cypress, TestNG
 Frameworks: Cucumber (BDD), Page Object Model (POM)
-Testing: Manual Testing, API Testing (Postman, REST Assured)
-Development Tools: Visual Studio Code, Spring Suite Tool
+Testing: Manual Testing, Automation Testing
+Development Tools: Visual Studio Code, Eclipse
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
