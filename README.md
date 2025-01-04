@@ -18,6 +18,16 @@
 
 - ⚡ Fun fact **Share your problems if you want solution for it.**
 
+
+
+🔧 Skills:
+
+Languages: Java, JavaScript, Python (basic)
+Automation Tools: Selenium WebDriver, Cypress, TestNG
+Frameworks: Cucumber (BDD), Page Object Model (POM)
+Testing: Manual Testing, API Testing (Postman, REST Assured)
+Development Tools: Visual Studio Code, Spring Suite Tool
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
