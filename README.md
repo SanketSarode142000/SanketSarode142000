@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://github.com/SanketSarode142000/My_Resume/blob/main/SanketBharatraoSarode-SDETQA-oGld.pdf](https://github.com/SanketSarode142000/My_Resume/blob/main/SanketBharatraoSarode-SDETQA-oGld.pdf)
 
-- ⚡ Fun fact **Share your your problems if you want solution for it.**
+- ⚡ Fun fact **Share your problems if you want solution for it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
